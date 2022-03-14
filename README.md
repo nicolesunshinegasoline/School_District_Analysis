@@ -10,18 +10,18 @@ The purpose of this analysis is to recreate the school district analysis, in whi
 
 ## How is the district summary affected?
 
-![](School_District_Analysis/Resources/Images/district_summary_before)
+![](Resources/Images/district_summary_before.png)
 
-![](School_District_Analysis/Resources/Images/district_summaey_after)
+![](Resources/Images/district_summaey_after.png)
 
 There was little to no change on any of the metrics on the district level.
 
 
 ## How is the school summary affected?
 
-![](School_District_Analysis/Resources/Images/school_summary_before)
+![](Resources/Images/school_summary_before.png)
 
-![](School_District_Analysis/Resources/Images/school_summary_after)
+![](Resources/Images/school_summary_after.png)
 
 In the school summary, there is little to no change on the average math and reading scores. However, in the recreated analysis, we see a big percentage drop in "% passing" rates for math and reading, as well as a big percentage drop in "% verall passing".
 - Math went from a % passing rate of 93.3% to 66.9%
